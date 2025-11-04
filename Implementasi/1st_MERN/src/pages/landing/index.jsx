@@ -2,7 +2,7 @@ import Layout from '../../components/Layout';
 
 
 
-function Home() {
+function Landing() {
 
   return (
     <Layout>
@@ -11,4 +11,4 @@ function Home() {
   )
 }
 
-export default Home
+export default Landing
