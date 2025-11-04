@@ -1,13 +1,11 @@
-import Layout from '../../components/Layout';
-
-
+import DefaultLayout from "../../components/layouts/defaultLayout"
 
 function Landing() {
 
   return (
-    <Layout>
+    <DefaultLayout>
       <h2>Landing Page</h2>
-    </Layout>
+    </DefaultLayout>
   )
 }
 
